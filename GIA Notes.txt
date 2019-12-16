@@ -1,0 +1,59 @@
+Hi,
+
+Please find the near-completed final year project form below. Many thanks.
+
+
+UG Project Registration Form
+ ——————————————
+
+To the supervisor:  Please add your comments (if any) to the bottom of the form, then email a copy to g.roberts@cs.ucl.ac.uk.  Please use the subject line "UG Registration Confirmation".
+
+
+Student's Name: Fazaan Hassan                     Degree Programme: MEng Computer Science
+
+
+Supervisor(s) Name: Giacomo Livan
+
+
+Project Working Title: 
+The Use of Statistical Natural Language Processing Techniques to Rationalise the Evolution of Airbnb Reviews. 
+
+
+Brief Outline of Aims: 
+- Discover how topics evolve and change overtime on airbnb e.g. length and topics inferred
+
+Intended goals:
+- Understand work of previous literature and related methodologies
+- Draw on statistical evaluation techniques to corroborate findings
+More to follow...
+
+
+
+
+2 Questions...
+
+1 - The way topics change/discussed in guest reviews vs host descriptions
+2 - For each host, do descriptions increase or decrease in length, topics which are diminished or become prevalent. 
+
+
+
+
+
+
+########## Analysis on London properties 2019 ###########
+
+1 - https://pypi.org/project/lexicalrichness/
+	- Calculate TTR as whole 
+2 - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
+    https://stackabuse.com/python-for-nlp-topic-modeling/
+	- Infer topics from all reviews
+3 - TTR for properties (full vs shared vs expensive vs cheap properties) over time
+4 - Topic extraction overtime
+
+
+1 - LSOA 
+2 - Classify by boroughs
+3 - Classify by price top 20% and bottom 20%
+
+
+
